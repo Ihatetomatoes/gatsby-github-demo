@@ -6,7 +6,7 @@ Develop, build and deploy a static Gatsby site to GitHub Pages:
 npm install
 gatsby develop
 gatsby build
-gatsby deploy
+npm run deploy
 ```
 
 ## Demo site
